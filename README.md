@@ -23,6 +23,8 @@ pip install -r requirements.txt
 ## Prediction using open models
 You can use the following code to reproduce our results for open models (like zephyrs, mistral, etc.):
 ```bash
+cd code
+
 SEED=1000
 TASK=ISCS
 PROMPT=icl # icl: standard in-context learning; esnli: using NLEs from esnli; xiclfs: using fs-X-ICL (refer to section 3.2); xiclzs: using zs-X-ICL (refer to section 3.2)
