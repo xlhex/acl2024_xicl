@@ -6,6 +6,7 @@ from __future__ import print_function
 
 import sys
 import re
+import json
 
 def main(input_file):
 
@@ -13,8 +14,8 @@ def main(input_file):
     correct = 0
     with open(input_file) as reader:
         for i, line in enumerate(reader):
-            if not line.startswith("{'original_prompt':"): continue
-            items = eval(line)
+            if not line.startswith('{"original_prompt"'): continue
+            items = json.loads(line)
             response = items["output"].strip().split("###")[0].strip()
             total += 1
             for line in response.split("\n"):
