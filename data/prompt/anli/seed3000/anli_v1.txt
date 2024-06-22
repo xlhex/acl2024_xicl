@@ -1,0 +1,31 @@
+Premise: Brazilian Sketches is an album by British saxophonist Jim Tomlinson that was released in 2003. The album features Stacey Kent on vocals. The album contains cover versions of songs by Antonio Carlos Jobim, Vinícius de Moraes, Marcos Valle, and Luiz Bonfá.
+Hypothesis: There were cover songs in addition to those by Antonio Carlos Jobim, Vinícius de Moraes, Marcos Valle, and Luiz Bonfá.
+Label: entailment
+###
+Premise: Christiandy Sanjaya (Hanzi: 黃漢山, Hanyu Pinyin: "Huáng Hànshān", Hakka: "Bong Hon Sham", born 29 March 1964) is the incumbent Deputy Governor of West Kalimantan since 14 January 2008. He was elected to the post together with his running mate, incumbent Governor Cornelis, after winning the 2007 gubernatorial election. They were re-elected for the second term on the 2012 gubernatorial election.
+Hypothesis: Christiandy Sanjaya has been deputy  governor for  5  years.
+Label: contradiction
+###
+Premise: Baghdad (Arabic: بغداد‎ ‎ , ) is the capital of Iraq. The population of Baghdad, as of 2016 , is approximately 8,765,000, making it the largest city in Iraq, the second largest city in the Arab world (after Cairo, Egypt), and the second largest city in Western Asia (after Tehran, Iran).
+Hypothesis: Baghdad has a smaller population than both Tehran and Cairo.
+Label: entailment
+###
+Premise: The 1988–89 Iraq FA Cup was the 12th edition of the Iraq FA Cup. The tournament was won by Al-Zawraa for the fifth time, beating Al-Tayaran 3–0 in the final. The first two rounds were between teams from the lower division, before the top-flight clubs entered at the round of 32.
+Hypothesis: The 1988-89 Iraq FA Cup was the only tournament Al-Tayaran was beat in.
+Label: neutral
+###
+Premise: The Professional (original title: Le Professionnel; ] ) is a 1981 French action film directed by French director Georges Lautner, starring Jean-Paul Belmondo, Jean Desailly and Robert Hossein, based on the award-winning 1976 novel "Death of a Thin-Skinned Animal" by Patrick Alexander.
+Hypothesis: The book "Death of a Thin-Skinned Animal" must have action in it.
+Label: entailment
+###
+Premise: Pawn Stars UK is a British reality television series which debuted on 26 August 2013 on the British version of the History channel. The series is filmed in Sealand, Flintshire in Wales, and chronicles the day-to-day activities of pawn shop Regal Pawn, collaboratively run by Mark Andrew Manning, Mark Lever Holland, Marco Peter Holland, Simon Penworth, and Vicki Manning.
+Hypothesis: Pawn Stars UK was cancelled after one season.
+Label: neutral
+###
+Premise: The Lady Vanishes is a 1979 English comedy mystery film directed by Anthony Page. Its screenplay by George Axelrod was based on the novel "The Wheel Spins" by Ethel Lina White (1876–1944). It stars Elliott Gould as Robert, Cybill Shepherd as Amanda (Iris), Angela Lansbury as Miss Froy, Herbert Lom, Arthur Lowe and Ian Carmichael as Charters and Caldicott.
+Hypothesis: Anthony Page helped write the screenplay with George Axelrod.
+Label: contradiction
+###
+Premise: G.I. Joe: Valor vs. Venom is a direct-to-video CGI animated movie and sequel to "". It was released in 2004 by Reel FX Creative Studios and distributed by Paramount Home Entertainment. Like "Spy Troops", the film was written around the theme of the toys released that year. In this case, it was Valor vs. Venom which introduced a new villain group, Cobra’s V-Troops.
+Hypothesis: G.I. Joe: Valor vs. Venom was released less than 10 years ago.
+Label: contradiction

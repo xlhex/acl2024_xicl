@@ -1,0 +1,39 @@
+Premise: A group of people walking down a road a long road, in the suburbs.
+Hypothesis: There is a group of people.
+Reason: The premise explicitly states that there is a group of people walking down a road, which directly supports the hypothesis that there is a group of people.
+Label: entailment
+###
+Premise: A child looks over her mother's shoulder.
+Hypothesis: A child is climbing a tree.
+Reason: Looking over her mother's shoulder and climbing a tree are two unrelated activities. The premise describes the child's action of observing something, while the hypothesis states that the child is engaged in the physical act of climbing a tree. Therefore, the two statements contradict each other.
+Label: contradiction
+###
+Premise: People walking on a sidewalk past a parked train.
+Hypothesis: Some people and a passenger train.
+Reason: The presence of people walking on a sidewalk does not necessarily imply the presence of a passenger train.
+Label: neutral
+###
+Premise: Two basketball players in blue and yellow uniforms with their arms held above their heads are eagerly exerting themselves to be very close to a struggling guy in white uniform with red trim who is tightly holding a basketball.
+Hypothesis: A group of men are playing basketball.
+Reason: The description of two basketball players in uniforms, exerting themselves and being close to a guy holding a basketball, implies that a group of men is playing basketball.
+Label: entailment
+###
+Premise: Woman wearing a long red garment and hat, holding a baby with a little girl next to her in front of a hut.
+Hypothesis: The native woman and her daughters are preparing to go inside to prepare the evening meal.
+Reason: The image described in the premise does not provide sufficient information to determine whether the woman and her daughters are preparing to go inside to prepare the evening meal. The statement in the hypothesis is a possible interpretation, but it cannot be confirmed or refuted based on the given information. Therefore, the label assigned to this example is "neutral."
+Label: neutral
+###
+Premise: A man at a skate park is doing an ollie out of a bowl near a beach.
+Hypothesis: A man in a skate park is messing up an ollie in a half-pipe near the beach.
+Reason: If a man is doing an ollie out of a bowl, he cannot be messing up an ollie in a half-pipe at the same time.
+Label: contradiction
+###
+Premise: A woman is dancing on stage in front of a screen.
+Hypothesis: A woman performing a dance.
+Reason: The premise states that a woman is dancing on stage, which implies that she is performing a dance.
+Label: entailment
+###
+Premise: Two men are cooking food on a grill.
+Hypothesis: Bob and bill were cooking.
+Reason: The premise states that two men are cooking food on a grill, but it doesn't specifically mention Bob and Bill. Therefore, the hypothesis that Bob and Bill were cooking is not explicitly supported or contradicted by the premise, resulting in a neutral label.
+Label: neutral

@@ -1,0 +1,39 @@
+Premise: A group of children sitting in chairs with monitors over them.
+Hypothesis: The kids are in chairs.
+Reason: The premise explicitly states that the group of children is sitting in chairs, which matches the hypothesis. Therefore, the hypothesis logically follows from the premise, leading to an entailment.
+Label: entailment
+###
+Premise: A young woman with elaborately designed hair is playing a game on a Game Boy.
+Hypothesis: An old man is watching tv.
+Reason: There is no connection or relationship between the young woman playing a game on a Game Boy and an old man watching TV, so the hypothesis contradicts the given premise.
+Label: contradiction
+###
+Premise: A man in a black shirt appears to be jumping in the air holding two boards with a sign saying "stomp" in the background.
+Hypothesis: A man in a black shirt protesting.
+Reason: The premise only shows a man in a black shirt holding two boards and jumping, but there is no indication of a protest, so the hypothesis cannot be confirmed or refuted. Therefore, it is assigned a neutral label.
+Label: neutral
+###
+Premise: The curly man wearing gloves is raking the grass.
+Hypothesis: He is working outside.
+Reason: The curly man is shown raking the grass, which is an outdoor activity, so it can be inferred that he is working outside.
+Label: entailment
+###
+Premise: A black dog runs down a snowy hill with his legs deep in the snow.
+Hypothesis: A black dog runs through the snow chasing the cat.
+Reason: The premise mentions that the black dog runs down a snowy hill with his legs deep in the snow, but there is no information provided about the dog chasing a cat. Therefore, the hypothesis does not contradict or entail the premise, making it neutral.
+Label: neutral
+###
+Premise: Man in boat wearing athletic shorts, a backwards baseball cap and sunglasses unhooks a fish he has caught while fishing.
+Hypothesis: His bald head is being burned by the sun.
+Reason: The man is wearing a backwards baseball cap and sunglasses, which indicates that his head is likely protected from the sun. Therefore, it is unlikely that his bald head is being burned by the sun.
+Label: contradiction
+###
+Premise: There is a group of 8 young children holding sticks while standing in the grass.
+Hypothesis: 8 children are standing in the grass.
+Reason: The premise explicitly states that there are 8 children standing in the grass, and the hypothesis directly reflects this information. Therefore, the hypothesis can be inferred from the premise, and the label assigned is entailment.
+Label: entailment
+###
+Premise: Three people gathering and binding sticks or brush.
+Hypothesis: Some people are working hard to gather and bind sticks.
+Reason: The premise simply describes three people gathering and binding sticks or brush, and the hypothesis states that some people are working hard to gather and bind sticks. The hypothesis does not contradict or entail the premise, hence the label is neutral.
+Label: neutral

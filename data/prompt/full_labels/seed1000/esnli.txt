@@ -1,0 +1,39 @@
+Premise: A group of children sitting in chairs with monitors over them.
+Hypothesis: The kids are in chairs.
+Reason: The kids are in chairs so they can watch the monitors
+Label: entailment
+###
+Premise: A young woman with elaborately designed hair is playing a game on a Game Boy.
+Hypothesis: An old man is watching tv.
+Reason: A young woman is not an old man
+Label: contradiction
+###
+Premise: A man in a black shirt appears to be jumping in the air holding two boards with a sign saying "stomp" in the background.
+Hypothesis: A man in a black shirt protesting.
+Reason: Holding boards with a sign that says stomp does not imply protesting.
+Label: neutral
+###
+Premise: The curly man wearing gloves is raking the grass.
+Hypothesis: He is working outside.
+Reason: The man is raking, which is work, grass, which is outside.
+Label: entailment
+###
+Premise: A black dog runs down a snowy hill with his legs deep in the snow.
+Hypothesis: A black dog runs through the snow chasing the cat.
+Reason: The dog doesn't have to be chasing a cat.
+Label: neutral
+###
+Premise: Man in boat wearing athletic shorts, a backwards baseball cap and sunglasses unhooks a fish he has caught while fishing.
+Hypothesis: His bald head is being burned by the sun.
+Reason: If a man is wearing a backwards baseball cap, then his bald head will not be exposed and burned by the sun.
+Label: contradiction
+###
+Premise: There is a group of 8 young children holding sticks while standing in the grass.
+Hypothesis: 8 children are standing in the grass.
+Reason: The children are occupied with the task of holding sticks while standing in the grass, so they must be in the grass.
+Label: entailment
+###
+Premise: Three people gathering and binding sticks or brush.
+Hypothesis: Some people are working hard to gather and bind sticks.
+Reason: Not all work is hard.
+Label: neutral

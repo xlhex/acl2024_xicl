@@ -1,0 +1,39 @@
+Premise: A little boy wearing a long-sleeve t-shirt and shorts having fun bouncing on a trampoline.
+Hypothesis: The boy is moving up and down.
+Reason: The hypothesis logically follows from the premise. The premise states that a little boy is bouncing on a trampoline, and the hypothesis states that the boy is moving up and down. Since bouncing on a trampoline inherently involves moving up and down, the hypothesis can be inferred or entailed from the premise.
+Label: entailment
+###
+Premise: The man in a white shirt had a flat tire on the back of his bike, and he was repairing it before he could take off again while his friend waited.
+Hypothesis: The repairs take one second.
+Reason: The hypothesis states that "The repairs take one second," which contradicts the information presented in the premise. The premise clearly mentions that the man in a white shirt had a flat tire on the back of his bike and was repairing it before he could take off again while his friend waited. This implies that the repairs were ongoing and would take longer than one second. Therefore, there is a contradiction between the hypothesis and the information provided in the premise.
+Label: contradiction
+###
+Premise: A young boy in school uses scissors to cut paper.
+Hypothesis: A boy works on an art project in school.
+Reason: The hypothesis does not contradict or strongly support the premise. While both the premise and the hypothesis involve a boy in school, the hypothesis simply states that the boy is working on an art project, which does not directly relate to the use of scissors to cut paper. The hypothesis does not introduce any conflicting or supporting information that would warrant a positive or negative label. Therefore, the neutral label indicates that there is no clear alignment or contradiction between the premise and hypothesis.
+Label: neutral
+###
+Premise: A man in a jean jacket is sitting outside painting.
+Hypothesis: There is a man outside.
+Reason: The hypothesis, "There is a man outside," logically follows from the premise, "A man in a jean jacket is sitting outside painting." The presence of a man in a jean jacket sitting outside painting implies the existence of a man outside, thus establishing an entailment relationship between the premise and hypothesis.
+Label: entailment
+###
+Premise: A dog knocking over potted plants in a yard covered in leaves.
+Hypothesis: A german shepard tearing up a garden.
+Reason: The hypothesis describes a German Shepherd tearing up a garden, which is not explicitly mentioned or implied in the premise. The premise only mentions a dog knocking over potted plants in a yard covered in leaves. Since the hypothesis goes beyond the information provided in the premise and introduces new elements, it cannot be confidently categorized as either supporting or contradicting the premise, resulting in a neutral label.
+Label: neutral
+###
+Premise: A small child waves two flags in a park!
+Hypothesis: a kid plays indoors.
+Reason: The premise states that a small child waves two flags in a park, while the hypothesis suggests that a kid plays indoors. The actions described in the premise and the hypothesis contradict each other, indicating a clear inconsistency or contradiction between the two statements.
+Label: contradiction
+###
+Premise: The beast may ruin the objects.
+Hypothesis: It's possible the items will get destroyed by the beast.
+Reason: The hypothesis logically follows from the premise. The premise states that the beast may ruin the objects, and the hypothesis affirms that it is possible for the items to get destroyed by the beast. The hypothesis directly stems from the premise, demonstrating a clear logical relationship, which supports the conclusion that the destruction of the items is a likely outcome of the beast's actions.
+Label: entailment
+###
+Premise: Three people are organizing diving equipment on the deck of a boat.
+Hypothesis: A woman and two men are standing on a boat.
+Reason: The hypothesis neither contradicts nor strongly supports the premise. While the premise mentions "three people," the hypothesis states "a woman and two men," which does not provide enough information to determine if the individuals mentioned in the premise match exactly with the individuals mentioned in the hypothesis. Thus, the hypothesis does not directly confirm or refute the premise, resulting in a neutral label.
+Label: neutral

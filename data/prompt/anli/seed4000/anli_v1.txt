@@ -1,0 +1,31 @@
+Premise: Stanley Hugh Gallimore (14 April 1910 – September 1994) was an English footballer. His regular position was as a forward. He was born in Bucklow Hill, Cheshire and died in the Trafford district of Cheshire. He played for Witton Albion, Manchester United, Altrincham and Northwich Victoria.
+Hypothesis: Stanley Gallimore was 84 years old when he died.
+Label: entailment
+###
+Premise: Susan P. Thomases (born 1944) is a New York-based attorney. She served as personal counsel and an informal adviser to Hillary Clinton during the presidency of Bill Clinton. She was a prominent witness during the Senate Whitewater Hearings in 1995. She served as the model for the character Lucille Kaufmann from the 1996 political novel "Primary Colors".
+Hypothesis: Thomases was a Republican supporter.
+Label: contradiction
+###
+Premise: Svengali is a live album by jazz composer, arranger, conductor and pianist Gil Evans, recorded in 1973 by Evans with an orchestra featuring Ted Dunbar, Howard Johnson, David Sanborn, Billy Harper, Richard Williams, Trevor Koehler, and Hannibal Marvin Peterson. The name of the album is an anagram for Gil Evans.
+Hypothesis: Svengali is a live album.The album is made by a person , hidden in the name of the album.
+Label: entailment
+###
+Premise: Bodhi Rook is a fictional character in the "Star Wars" franchise, portrayed by British actor Riz Ahmed in the 2016 film "Rogue One". Bodhi is a former Imperial cargo pilot who, under the influence of Galen Erso, defects to the Rebel Alliance in an attempt to steal the plans to the Death Star, a powerful weapon possessed by the Empire.
+Hypothesis: The Rebel alliance and the Empire are enemies.
+Label: neutral
+###
+Premise: The white tiger or bleached tiger is a pigmentation variant of the Bengal tiger, which is reported in the wild from time to time in the Indian states of Assam, West Bengal and Bihar in the Sunderbans region and especially in the former State of Rewa. Such a tiger has the black stripes typical of the Bengal tiger, but carries a white or near-white coat.
+Hypothesis: The white tiger is not a different species from the Bengal tiger.
+Label: entailment
+###
+Premise: The 2017 Portland State Vikings football team represent Portland State University during the 2017 NCAA Division I FCS football season. They are led by third-year head coach Bruce Barnum and play their home games at Providence Park, with one home game at Hillsboro Stadium. They are a member of the Big Sky Conference.
+Hypothesis: Bruce Barnum was head coach of the Portland State Vikings until 2017.
+Label: neutral
+###
+Premise: Eochu or Eochaid Feidlech ("the enduring"), son of Finn, son of Rogen Ruad, son of Essamain Emna, son of Blathnachta, son of Labraid Lorc, son of Enna Aignech was, according to medieval Irish legends and historical traditions, a High King of Ireland. He is best known as the father of the legendary queen Medb of Connacht.
+Hypothesis: Essamain Emna is the father of queen Medb of Connacht.
+Label: contradiction
+###
+Premise: A Doll's House (Bokmål: "Et dukkehjem" ; also translated as "A Doll House") is a three-act play written by Henrik Ibsen. It premiered at the Royal Theatre in Copenhagen, Denmark, on 21 December 1879, having been published earlier that month. The play is set in a Norwegian town circa 1879.
+Hypothesis: A doll's house was published in December 1987 but it was a play about something that happened in Norway in 1879 before it's first showing in a theater.
+Label: contradiction

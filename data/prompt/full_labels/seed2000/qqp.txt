@@ -1,0 +1,35 @@
+Question 1: How do I build an electromagnetic propulsion engine?
+Question 2: How would I build a magnetic propulsion system?
+Question: Do both questions ask the same thing?
+Reason: Both question asks about building magnetic propulsion systems.
+Label: yes
+###
+Question 1: How is the word 'calumny' used in a sentence?
+Question 2: How is the word 'mischievous' used in a sentence?
+Question: Do both questions ask the same thing?
+Reason: The two questions ask about two different words with different meanings.
+Label: no
+###
+Question 1: Does life get harder as you get older?
+Question 2: Does life really get harder as you get older?
+Question: Do both questions ask the same thing?
+Reason: Both questions ask whether life does get harder as you get older.
+Label: yes
+###
+Question 1: What are your views on the abolishment of 500 rupees note?
+Question 2: How will the ban of Rs 500 and Rs 1000 notes affect Indian economy?
+Question: Do both questions ask the same thing?
+Reason: The former question asks specifically about the abolishment of the Rs 500 note, while the latter asks about the Rs 500 and the Rs 1000 notes.
+Label: no
+###
+Question 1: Why do we call Java platform independent language when it still requires platform dependent JVM to get executed?
+Question 2: How is the Java platform independent when we need to have JVM on every machine to run Java programs?
+Question: Do both questions ask the same thing?
+Reason: Both questions ask why do we call Java platform-independent, since it still depends on the availability of a JVM.
+Label: yes
+###
+Question 1: What are the valence electrons of titanium?
+Question 2: What is the number of valence electrons in hydrogen? How is this determined?
+Question: Do both questions ask the same thing?
+Reason: The former question asks about titanium, while the latter is about hydrogen.
+Label: no

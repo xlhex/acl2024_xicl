@@ -1,0 +1,29 @@
+Question 1: Is a third World War imminent?
+Question 2: How close is a World War III?
+Question: Do both questions ask the same thing?
+Label: yes
+###
+Question 1: Why is Lionel Messi so brilliant?
+Question 2: Is Lionel Messi a genius?
+Question: Do both questions ask the same thing?
+Label: no
+###
+Question 1: What are some of the resources to learn about IoT?
+Question 2: What are the best resources to learn about the Internet of Things (IoT)?
+Question: Do both questions ask the same thing?
+Label: yes
+###
+Question 1: What are some of the best CyanogenMod 12.1 themes?
+Question 2: How do I make my own cyanogen 12.1 themes?
+Question: Do both questions ask the same thing?
+Label: no
+###
+Question 1: Which are some of the best movies of 2016?
+Question 2: What has been the best movie of 2016?
+Question: Do both questions ask the same thing?
+Label: yes
+###
+Question 1: Study tips to pas ca ipcc?
+Question 2: If you are unhappy with your current job, would you quit right away& find another job or wait until you find a job. What are the pros & cons of each?
+Question: Do both questions ask the same thing?
+Label: no

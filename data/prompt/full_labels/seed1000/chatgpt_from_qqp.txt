@@ -1,0 +1,35 @@
+Question 1: How can I be like Sheldon Cooper?
+Question 2: How do I become like Sheldon Cooper?
+Question: Do both questions ask the same thing?
+Reason: Both questions ask about becoming like Sheldon Cooper, with slight differences in phrasing ("How can I be like" vs. "How do I become like"), but the overall intent and topic of the questions are the same, which is why the label is "yes."
+Label: yes
+###
+Question 1: Why can't some people think for themselves?
+Question 2: Why don't people think for themselves?
+Question: Do both questions ask the same thing?
+Reason: The questions are not asking the same thing because the first question is asking about the inability of "some people" to think for themselves, while the second question is asking about the general behavior of "people" not thinking for themselves.  
+Label: no
+###
+Question 1: What do people think about Anonymous?
+Question 2: What do you think about the 'Anonymous' option on Quora?
+Question: Do both questions ask the same thing?
+Reason: Both questions inquire about people's thoughts or opinions regarding "Anonymous.", lead to a "yes".
+Label: yes
+###
+Question 1: Why don't we use Solar Furnace to produce electricity?
+Question 2: Why don't we make Solar Cars?
+Question: Do both questions ask the same thing?
+Reason: The first question is about using a solar furnace to produce electricity, while the second question is about making solar cars. Thus, so they are not paraphrases of each other.
+Label: no
+###
+Question 1: What's the meaning of life?
+Question 2: "What is the meaning of ""Life""?"
+Question: Do both questions ask the same thing?
+Reason: Both questions essentially ask for the same information, which is the meaning of life. 
+Label: yes
+###
+Question 1: What is an intuitive explanation of the fractional quantum Hall effect?
+Question 2: What is an intuitive explanation of the Quantum Hall effect?
+Question: Do both questions ask the same thing?
+Reason: They refer to different specific types of Hall effects: "fractional quantum Hall effect" and "Quantum Hall effect," which have distinct characteristics and phenomena.
+Label: no

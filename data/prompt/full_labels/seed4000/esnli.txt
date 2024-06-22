@@ -1,0 +1,39 @@
+Premise: A woman in a white robe is sitting on a counter putting on makeup.
+Hypothesis: A woman is wearing white.
+Reason: The woman is in a white robe so she is wearing white.
+Label: entailment
+###
+Premise: The lights at night in the city.
+Hypothesis: The city is dark because of a blackout.
+Reason: There can't be lights in a dark place.
+Label: contradiction
+###
+Premise: Men playing a sport during a sunny day.
+Hypothesis: Men play some volleyball on a beach.
+Reason: The fact that the men are playing a sport doesn't necessarily imply they are playing volleyball. Not all people play sports on a beach.
+Label: neutral
+###
+Premise: A closeup of a white bunny.
+Hypothesis: The animal is white.
+Reason: A bunny is an animal.
+Label: entailment
+###
+Premise: Two children walking on a wooden path through the woods.
+Hypothesis: Children are in the woods.
+Reason: Children can be more than two. Not all woods have wooden paths.
+Label: neutral
+###
+Premise: A male rock climber grips a large crack on the side of a ledge.
+Hypothesis: A man is at the mall.
+Reason: The man cannot simultaneously be on the side of a ledge and be at the mall
+Label: contradiction
+###
+Premise: A man in glasses, a t-shirt and shorts stands in a kitchen and cuts a tomato on top of a cutting board that rests on a kitchen table with a green tablecloth.
+Hypothesis: A man is cutting a tomato.
+Reason: Cuts a tomato is a present form of cutting a tomato. Man refers to the man in glasses.
+Label: entailment
+###
+Premise: Man in business attire speaks into a microphone.
+Hypothesis: A businessman is giving a speech.
+Reason: A man in business attire is not necessarily a businessman.
+Label: neutral

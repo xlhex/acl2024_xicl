@@ -1,0 +1,29 @@
+Question 1: What is a good first programming language to learn?
+Question 2: What is the most valuable programming language for the future to learn?
+Question: Do both questions ask the same thing?
+Label: yes
+###
+Question 1: Is 6 foot 4 too tall as an ideal height for a man?
+Question 2: My height is 5'6 and I'm 14 year old boy, my mom is 5'4 and my dad is 5'7. How tall will I be?
+Question: Do both questions ask the same thing?
+Label: no
+###
+Question 1: What is best way for earning money?
+Question 2: How can I start making money? What are the best ways to make money?
+Question: Do both questions ask the same thing?
+Label: yes
+###
+Question 1: Approximately how many hours have you spent on the internet till date?
+Question 2: What amount of time do you spent on the Internet?
+Question: Do both questions ask the same thing?
+Label: no
+###
+Question 1: Does the Indian education system need a reformation?
+Question 2: Should the education system be changed in India? If so why or why not?
+Question: Do both questions ask the same thing?
+Label: yes
+###
+Question 1: What are the most ridiculous statements made by Donald Trump?
+Question 2: My black friend supports Donald Trump, is that ridiculous?
+Question: Do both questions ask the same thing?
+Label: no

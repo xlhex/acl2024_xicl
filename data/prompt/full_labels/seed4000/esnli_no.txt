@@ -1,0 +1,31 @@
+Premise: A woman in a white robe is sitting on a counter putting on makeup.
+Hypothesis: A woman is wearing white.
+Label: entailment
+###
+Premise: The lights at night in the city.
+Hypothesis: The city is dark because of a blackout.
+Label: contradiction
+###
+Premise: Men playing a sport during a sunny day.
+Hypothesis: Men play some volleyball on a beach.
+Label: neutral
+###
+Premise: A closeup of a white bunny.
+Hypothesis: The animal is white.
+Label: entailment
+###
+Premise: Two children walking on a wooden path through the woods.
+Hypothesis: Children are in the woods.
+Label: neutral
+###
+Premise: A male rock climber grips a large crack on the side of a ledge.
+Hypothesis: A man is at the mall.
+Label: contradiction
+###
+Premise: A man in glasses, a t-shirt and shorts stands in a kitchen and cuts a tomato on top of a cutting board that rests on a kitchen table with a green tablecloth.
+Hypothesis: A man is cutting a tomato.
+Label: entailment
+###
+Premise: Man in business attire speaks into a microphone.
+Hypothesis: A businessman is giving a speech.
+Label: neutral

@@ -1,0 +1,35 @@
+Question 1: Is a third World War imminent?
+Question 2: How close is a World War III?
+Question: Do both questions ask the same thing?
+Reason: Both questions inquire about the likelihood or proximity of a third World War, and they are similar in meaning.
+Label: yes
+###
+Question 1: Why is Lionel Messi so brilliant?
+Question 2: Is Lionel Messi a genius?
+Question: Do both questions ask the same thing?
+Reason: The first question seeks an explanation for his brilliance, whereas the second question is more about labeling him as a genius, leading to a "no" label.
+Label: no
+###
+Question 1: What are some of the resources to learn about IoT?
+Question 2: What are the best resources to learn about the Internet of Things (IoT)?
+Question: Do both questions ask the same thing?
+Reason: The overall intent of both questions is the same, which is seeking information about resources to learn about IoT.
+Label: yes
+###
+Question 1: What are some of the best CyanogenMod 12.1 themes?
+Question 2: How do I make my own cyanogen 12.1 themes?
+Question: Do both questions ask the same thing?
+Reason: They do not ask the same thing, as one is focused on finding existing themes, and the other is about making new ones, resulting in a "no" label.
+Label: no
+###
+Question 1: Which are some of the best movies of 2016?
+Question 2: What has been the best movie of 2016?
+Question: Do both questions ask the same thing?
+Reason: Both questions ask the same thing because they both seek information about the best movies of 2016. 
+Label: yes
+###
+Question 1: Study tips to pas ca ipcc?
+Question 2: If you are unhappy with your current job, would you quit right away& find another job or wait until you find a job. What are the pros & cons of each?
+Question: Do both questions ask the same thing?
+Reason: The two questions are about completely different topics, leading to a "no" label.
+Label: no

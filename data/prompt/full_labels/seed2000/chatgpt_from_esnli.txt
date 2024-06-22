@@ -1,0 +1,39 @@
+Premise: A little boy wearing a long-sleeve t-shirt and shorts having fun bouncing on a trampoline.
+Hypothesis: The boy is moving up and down.
+Reason: The little boy is having fun bouncing on a trampoline, and bouncing on a trampoline involves moving up and down.
+Label: entailment
+###
+Premise: The man in a white shirt had a flat tire on the back of his bike, and he was repairing it before he could take off again while his friend waited.
+Hypothesis: The repairs take one second.
+Reason: The premise states that the man was repairing his flat tire before he could take off again, implying that the repairs would take some time. Therefore, it contradicts the hypothesis that the repairs take only one second.
+Label: contradiction
+###
+Premise: A young boy in school uses scissors to cut paper.
+Hypothesis: A boy works on an art project in school.
+Reason: The premise describes a young boy using scissors to cut paper, which is a possible activity in an art project. However, the hypothesis only mentions a boy working on an art project in school without specifying the use of scissors or cutting paper. Therefore, the hypothesis does not provide enough information to determine whether it matches the premise, resulting in a neutral label.
+Label: neutral
+###
+Premise: A man in a jean jacket is sitting outside painting.
+Hypothesis: There is a man outside.
+Reason: The premise states that a man in a jean jacket is sitting outside painting, which implies that there is a man outside. Therefore, the hypothesis is true based on the information provided in the premise.
+Label: entailment
+###
+Premise: A dog knocking over potted plants in a yard covered in leaves.
+Hypothesis: A german shepard tearing up a garden.
+Reason: The premise describes a dog knocking over potted plants in a yard covered in leaves, which is not specific to a German Shepherd. Therefore, the hypothesis mentioning a German Shepherd tearing up a garden does not contradict or entail the information provided in the premise, resulting in a neutral label.
+Label: neutral
+###
+Premise: A small child waves two flags in a park!
+Hypothesis: a kid plays indoors.
+Reason: The premise states that a small child waves two flags in a park, indicating an outdoor activity. In contrast, the hypothesis suggests that the kid plays indoors, which contradicts the outdoor setting mentioned in the premise.
+Label: contradiction
+###
+Premise: The beast may ruin the objects.
+Hypothesis: It's possible the items will get destroyed by the beast.
+Reason: The premise states that the beast may ruin the objects, which implies that there is a possibility of the items getting destroyed by the beast. Therefore, the hypothesis accurately captures the meaning of the premise, indicating an entailment relationship.
+Label: entailment
+###
+Premise: Three people are organizing diving equipment on the deck of a boat.
+Hypothesis: A woman and two men are standing on a boat.
+Reason: The premise describes three people organizing diving equipment on the deck of a boat, while the hypothesis simply states that a woman and two men are standing on a boat. The hypothesis does not provide any contradicting information or explicitly support the premise, hence it is considered a neutral statement.
+Label: neutral

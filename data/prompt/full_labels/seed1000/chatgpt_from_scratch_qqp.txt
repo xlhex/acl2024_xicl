@@ -1,0 +1,35 @@
+Question 1: How can I be like Sheldon Cooper?
+Question 2: How do I become like Sheldon Cooper?
+Question: Do both questions ask the same thing?
+Reason: They have the same underlying intent, which is inquiring about the process or steps to become similar to Sheldon Cooper, even though they use slightly different phrasing.
+Label: yes
+###
+Question 1: Why can't some people think for themselves?
+Question 2: Why don't people think for themselves?
+Question: Do both questions ask the same thing?
+Reason: Although both questions discuss the concept of people not thinking for themselves, they use different modalities. Question 1 uses "can't," suggesting an inability to think for themselves, while Question 2 uses "don't," suggesting a choice or habit not to think for themselves. This difference in modality indicates a distinction in the implied reasons or circumstances for people not thinking for themselves.
+Label: no
+###
+Question 1: What do people think about Anonymous?
+Question 2: What do you think about the 'Anonymous' option on Quora?
+Question: Do both questions ask the same thing?
+Reason: Both questions inquire about people's opinions or thoughts regarding the entity "Anonymous," albeit in slightly different contexts (generally, and specifically on the platform Quora), but the fundamental intent is the same – to understand what individuals think about "Anonymous."
+Label: yes
+###
+Question 1: Why don't we use Solar Furnace to produce electricity?
+Question 2: Why don't we make Solar Cars?
+Question: Do both questions ask the same thing?
+Reason: The two questions inquire about different topics or concepts. The first question is about using a solar furnace to produce electricity, while the second question is about making solar cars. These are distinct ideas and not paraphrases of each other.
+Label: no
+###
+Question 1: What's the meaning of life?
+Question 2: "What is the meaning of ""Life""?"
+Question: Do both questions ask the same thing?
+Reason: Both questions have the same underlying meaning, despite slight differences in phrasing and punctuation. They both inquire about the meaning of life, with the only distinction being the use of quotation marks and the word "is" in the second question, which do not alter the core inquiry.
+Label: yes
+###
+Question 1: What is an intuitive explanation of the fractional quantum Hall effect?
+Question 2: What is an intuitive explanation of the Quantum Hall effect?
+Question: Do both questions ask the same thing?
+Reason: Question 1 specifically asks for an explanation of the "fractional quantum Hall effect," while Question 2 asks for an explanation of the "Quantum Hall effect" without specifying the "fractional" aspect. Although related, these two phenomena are distinct in physics, so the questions do not ask the same thing.
+Label: no

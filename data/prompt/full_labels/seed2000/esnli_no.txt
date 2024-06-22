@@ -1,0 +1,31 @@
+Premise: A little boy wearing a long-sleeve t-shirt and shorts having fun bouncing on a trampoline.
+Hypothesis: The boy is moving up and down.
+Label: entailment
+###
+Premise: The man in a white shirt had a flat tire on the back of his bike, and he was repairing it before he could take off again while his friend waited.
+Hypothesis: The repairs take one second.
+Label: contradiction
+###
+Premise: A young boy in school uses scissors to cut paper.
+Hypothesis: A boy works on an art project in school.
+Label: neutral
+###
+Premise: A man in a jean jacket is sitting outside painting.
+Hypothesis: There is a man outside.
+Label: entailment
+###
+Premise: A dog knocking over potted plants in a yard covered in leaves.
+Hypothesis: A german shepard tearing up a garden.
+Label: neutral
+###
+Premise: A small child waves two flags in a park!
+Hypothesis: a kid plays indoors.
+Label: contradiction
+###
+Premise: The beast may ruin the objects.
+Hypothesis: It's possible the items will get destroyed by the beast.
+Label: entailment
+###
+Premise: Three people are organizing diving equipment on the deck of a boat.
+Hypothesis: A woman and two men are standing on a boat.
+Label: neutral

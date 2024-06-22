@@ -1,0 +1,31 @@
+Premise: George Jacob Gershwin ( ; September 26, 1898 July 11, 1937) was an American composer and pianist. Gershwin's compositions spanned both popular and classical genres, and his most popular melodies are widely known. Among his best-known works are the orchestral compositions "Rhapsody in Blue" (1924) and "An American in Paris" (1928) as well as the opera "Porgy and Bess" (1935).
+Hypothesis: Porgy and Bess was composed in the 1900s.
+Label: entailment
+###
+Premise: Terenzo is a "comune" (municipality) in the Province of Parma in the Italian region Emilia-Romagna, located about 100 km west of Bologna and about 30 km southwest of Parma. As of 31 December 2004, it had a population of 1,250 and an area of 72.4 km2 .
+Hypothesis: Terenzo is located near Bologna, only 30 km southwest.
+Label: contradiction
+###
+Premise: Caroline Righton (born 26 February 1958), is an English television presenter, author and fashion designer, best known for being a presenter on the daily Breakfast Television station TV-am and being an anchor of the Channel 4 news show, The Channel Four Daily.
+Hypothesis: Caroline Righton is over 60 years old.
+Label: entailment
+###
+Premise: The following is a list of athletes with dual nationality. It includes both players who can trace their origins to a foreign country and those who have attained foreign nationality during their career, as well as players who hail from semi-autonomous regions within countries.
+Hypothesis: Athletes with dual nationality can vote in either country.
+Label: neutral
+###
+Premise: Callitris columellaris is a species of coniferous tree in the family Cupressaceae (cypress family), native to most of Australia. Common names include White Cypress-pine, Murray River Cypress-pine, and Northern Cypress-pine. "Callitris columellaris" has been naturalised in Hawaii and in southern Florida.
+Hypothesis: Callitris columellaris is a type of pine tree.
+Label: entailment
+###
+Premise: Northeast Wisconsin Technical College, also called NWTC, is one of the 16 technical and community colleges in the Wisconsin Technical College System in the United States. The college serves nine Wisconsin counties with three campuses in Green Bay, Marinette, and Sturgeon Bay and five regional learning centers in Shawano, Oconto Falls, Crivitz, Niagara and Luxemburg.
+Hypothesis: NWTC cant serve more than nine counties.
+Label: neutral
+###
+Premise: Max Loughan (born November 14, 2002) is an American teenage science hobbyist, speaker and occasional media personality who created a crystal radio from items found around his family’s home in Incline Village, Nevada. The device, which purportedly harnesses energy from radio waves, incorporates some of the principles developed by Nikola Tesla in the early 20th Century.
+Hypothesis: Max Loughan is more than 20 years old.
+Label: contradiction
+###
+Premise: "Aama" (आमा) (Literally: Mother) is the first Nepali movie produced in Nepal, starring Shiva Shankar Manandhar and Bhuvan Chand (Thapa) as the leading actors. The movie was produced by the Information Department of the Nepalese Government and released on October 7, 1964. Bollywood film maker Hira Singh Khatri was invited by the late King Mahendra to direct the first Nepali movie.
+Hypothesis: Hira Singh Khatri was invited by the prime minister to direct the movie.
+Label: contradiction

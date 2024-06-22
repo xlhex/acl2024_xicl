@@ -1,0 +1,39 @@
+Premise: The Florida Scholastic Press Association (FSPA) is a not-for-profit organization founded in 1946. It is the scholastic press association for the state of Florida and its members consist of more than 300 student publications, online media teams and broadcast programs from the state. The main mission of the organization is to educate, train and support scholastic journalists and their advisers.
+Hypothesis: The FSPA has over 300 members
+Reason: The article states that it's members come from over 300 places
+Label: entailment
+###
+Premise: We Have Always Lived in the Castle is an upcoming American mystery thriller film directed by Stacie Passon and written by Passon and Mark Kruger, based on the 1962 novel of the same name by Shirley Jackson. The film stars Taissa Farmiga, Alexandra Daddario, Crispin Glover, and Sebastian Stan.
+Hypothesis: We Have Always Lived in the Castle came out in 2018.
+Reason: It says it's upcoming, so hasn't been released yet.
+Label: contradiction
+###
+Premise: Bucklow Rural District was, from 1894 to 1974, a local government district in the north of the administrative county of Cheshire, England. Following the Local Government Act 1972, this rural district was split between the new Greater Manchester boroughs of Trafford and Manchester, and Macclesfield, which was retained in Cheshire.
+Hypothesis: Bucklow Rural District has a population.
+Reason: Bucklow Rural District must have a population if it is named location and not a historical site.
+Label: entailment
+###
+Premise: Jonathan Smith (born January 17, 1971), better known by his stage name Lil Jon, is an American rapper, record producer, and DJ. He was the frontman of the group Lil Jon & The East Side Boyz, which he formed in 1997, and they released several albums until 2004.
+Hypothesis: Jonathan Smith spent much of his time in China.
+Reason: Jonathan Smith spent much of his time in Russia.
+Label: neutral
+###
+Premise: Kinky is the self-titled album by Mexican group Kinky. It was released on March 26, 2002 on Nettwerk. The most popular song, Cornman, is part of the soundtrack for the PlayStation 3 video game LittleBigPlanet. Another of their songs, "Más", is featured in the PS2 video game SSX 3 and in the 2004 film Man on Fire.
+Hypothesis: "Más", is featured in the Play Station 2 video game.
+Reason: Play Station 2 = PS2. The system did not know that.
+Label: entailment
+###
+Premise: The Great Mall of the Bay Area (often simply called The Great Mall) is a large indoor outlet shopping mall in Milpitas, California built by Ford Motor Land Development and Petrie Dierman Kughn in 1994. It was acquired by Mills Corporation in 2003, and by the Simon Property Group in April 2007. The mall contains approximately 1.4 million square feet of gross leaseable area.
+Hypothesis: Petrie Dierman Kughn died in 2006
+Reason: It is neither correct or incorrect because we know the mall changed ownership in 2007 but we do not know if it because Petrie Dierman Kughn died or if he just sold it
+Label: neutral
+###
+Premise: Sick Individuals is a Dutch electronic dance music act consisting of Rinze "Ray" Hofstee and Joep "Jim" Smeele. The two met in Hilversum, Netherlands (2008) while studying Music Composition. Jim and Ray had been composing for television commercials until their mutual fascination for both classical and modern music inspired their business partnership in 2010, when Sick Individuals was born.
+Hypothesis: Rinze "Ray" Hofstee wasn't interested in classical music but was fascinated by modern music.
+Reason: It says they were both fascinated by classical music.
+Label: contradiction
+###
+Premise: The Deserve the Future Tour was a worldwide concert tour by American rock supergroup Them Crooked Vultures. The tour began on August 9, 2009, and ran until July 30, 2010, after a run of shows in Japan, and visited North America, Europe and Oceania. The tour was in support of the band's debut album.
+Hypothesis: The Deserve the Future Tour ran for 4 years.
+Reason: The tour only ran for 11 months.
+Label: contradiction

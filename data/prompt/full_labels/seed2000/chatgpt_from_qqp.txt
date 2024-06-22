@@ -1,0 +1,35 @@
+Question 1: How do I build an electromagnetic propulsion engine?
+Question 2: How would I build a magnetic propulsion system?
+Question: Do both questions ask the same thing?
+Reason: Both questions ask about building propulsion systems that use magnetism, and the terms "electromagnetic propulsion engine" and "magnetic propulsion system" can be considered paraphrases, indicating the same concept.
+Label: yes
+###
+Question 1: How is the word 'calumny' used in a sentence?
+Question 2: How is the word 'mischievous' used in a sentence?
+Question: Do both questions ask the same thing?
+Reason: They are inquiring about the usage of different words ('calumny' and 'mischievous') in sentences, indicating different topics and purposes.
+Label: no
+###
+Question 1: Does life get harder as you get older?
+Question 2: Does life really get harder as you get older?
+Question: Do both questions ask the same thing?
+Reason: Both questions essentially inquire about whether life becomes more challenging with age, so they ask the same thing.
+Label: yes
+###
+Question 1: What are your views on the abolishment of 500 rupees note?
+Question 2: How will the ban of Rs 500 and Rs 1000 notes affect Indian economy?
+Question: Do both questions ask the same thing?
+Reason: These questions are related to the same topic of currency notes in India, but they ask different things, resulting in a "no" label.
+Label: no
+###
+Question 1: Why do we call Java platform independent language when it still requires platform dependent JVM to get executed?
+Question 2: How is the Java platform independent when we need to have JVM on every machine to run Java programs?
+Question: Do both questions ask the same thing?
+Reason: Both questions ask the same thing because they both inquire about the apparent contradiction in calling Java a platform-independent language while requiring a platform-dependent JVM for execution.
+Label: yes
+###
+Question 1: What are the valence electrons of titanium?
+Question 2: What is the number of valence electrons in hydrogen? How is this determined?
+Question: Do both questions ask the same thing?
+Reason: The questions are related to valence electrons but focus on different elements and aspects, so they do not ask the same thing.
+Label: no

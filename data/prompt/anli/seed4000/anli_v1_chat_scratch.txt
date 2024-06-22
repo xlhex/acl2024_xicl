@@ -1,0 +1,39 @@
+Premise: Stanley Hugh Gallimore (14 April 1910 – September 1994) was an English footballer. His regular position was as a forward. He was born in Bucklow Hill, Cheshire and died in the Trafford district of Cheshire. He played for Witton Albion, Manchester United, Altrincham and Northwich Victoria.
+Hypothesis: Stanley Gallimore was 84 years old when he died.
+Reason: The hypothesis accurately follows and logically derives from the information provided in the premise. The premise states that Stanley Hugh Gallimore was born on April 14, 1910, and died in September 1994. Given this information, it can be concluded that Stanley Gallimore was indeed 84 years old when he died, as the hypothesis states. Hence, the hypothesis is entailed by the premise.
+Label: entailment
+###
+Premise: Susan P. Thomases (born 1944) is a New York-based attorney. She served as personal counsel and an informal adviser to Hillary Clinton during the presidency of Bill Clinton. She was a prominent witness during the Senate Whitewater Hearings in 1995. She served as the model for the character Lucille Kaufmann from the 1996 political novel "Primary Colors".
+Hypothesis: Thomases was a Republican supporter.
+Reason: The premise clearly states that Susan P. Thomases served as personal counsel and an informal adviser to Hillary Clinton, who is a prominent figure in the Democratic Party. This indicates a close association with the Democratic Party rather than being a Republican supporter, which contradicts the hypothesis.
+Label: contradiction
+###
+Premise: Svengali is a live album by jazz composer, arranger, conductor and pianist Gil Evans, recorded in 1973 by Evans with an orchestra featuring Ted Dunbar, Howard Johnson, David Sanborn, Billy Harper, Richard Williams, Trevor Koehler, and Hannibal Marvin Peterson. The name of the album is an anagram for Gil Evans.
+Hypothesis: Svengali is a live album.The album is made by a person , hidden in the name of the album.
+Reason: The hypothesis accurately captures the information presented in the premise. The premise states that "Svengali is a live album by jazz composer, arranger, conductor and pianist Gil Evans," and the hypothesis states that "Svengali is a live album." The hypothesis also mentions that the album is made by a person hidden in the name of the album, which is in line with the information provided in the premise that the name of the album is an anagram for Gil Evans. Thus, the hypothesis logically follows from the premise, supporting the entailment label.
+Label: entailment
+###
+Premise: Bodhi Rook is a fictional character in the "Star Wars" franchise, portrayed by British actor Riz Ahmed in the 2016 film "Rogue One". Bodhi is a former Imperial cargo pilot who, under the influence of Galen Erso, defects to the Rebel Alliance in an attempt to steal the plans to the Death Star, a powerful weapon possessed by the Empire.
+Hypothesis: The Rebel alliance and the Empire are enemies.
+Reason: The statement in the hypothesis, "The Rebel alliance and the Empire are enemies," does not contradict or directly align with the information provided in the premise. While the premise establishes that Bodhi Rook defects from the Empire to the Rebel Alliance, it does not explicitly mention the nature of their relationship as enemies or allies. Therefore, without additional context, the label remains neutral as the hypothesis cannot be definitively confirmed or refuted based on the given information.
+Label: neutral
+###
+Premise: The white tiger or bleached tiger is a pigmentation variant of the Bengal tiger, which is reported in the wild from time to time in the Indian states of Assam, West Bengal and Bihar in the Sunderbans region and especially in the former State of Rewa. Such a tiger has the black stripes typical of the Bengal tiger, but carries a white or near-white coat.
+Hypothesis: The white tiger is not a different species from the Bengal tiger.
+Reason: The hypothesis logically follows from the premise. The premise states that the white tiger is a pigmentation variant of the Bengal tiger, indicating that it shares the same species as the Bengal tiger. Therefore, the hypothesis that the white tiger is not a different species from the Bengal tiger is supported by the information provided in the premise, making it an entailment.
+Label: entailment
+###
+Premise: The 2017 Portland State Vikings football team represent Portland State University during the 2017 NCAA Division I FCS football season. They are led by third-year head coach Bruce Barnum and play their home games at Providence Park, with one home game at Hillsboro Stadium. They are a member of the Big Sky Conference.
+Hypothesis: Bruce Barnum was head coach of the Portland State Vikings until 2017.
+Reason: The premise provides information about the 2017 Portland State Vikings football team, their coach Bruce Barnum, and their home games, but it does not explicitly state whether Bruce Barnum was the head coach until 2017. Therefore, without additional information, it is neither confirmed nor refuted whether Bruce Barnum was the head coach until 2017, resulting in a neutral label.
+Label: neutral
+###
+Premise: Eochu or Eochaid Feidlech ("the enduring"), son of Finn, son of Rogen Ruad, son of Essamain Emna, son of Blathnachta, son of Labraid Lorc, son of Enna Aignech was, according to medieval Irish legends and historical traditions, a High King of Ireland. He is best known as the father of the legendary queen Medb of Connacht.
+Hypothesis: Essamain Emna is the father of queen Medb of Connacht.
+Reason: It contradicts the information provided in the premise. The premise states that Eochu or Eochaid Feidlech, not Essamain Emna, is the father of queen Medb of Connacht. Therefore, the hypothesis stating that Essamain Emna is the father of queen Medb of Connacht contradicts the given information.
+Label: contradiction
+###
+Premise: A Doll's House (Bokmål: "Et dukkehjem" ; also translated as "A Doll House") is a three-act play written by Henrik Ibsen. It premiered at the Royal Theatre in Copenhagen, Denmark, on 21 December 1879, having been published earlier that month. The play is set in a Norwegian town circa 1879.
+Hypothesis: A doll's house was published in December 1987 but it was a play about something that happened in Norway in 1879 before it's first showing in a theater.
+Reason: The hypothesis states that "A Doll's House" was published in December 1987, but the premise clearly states that the play was published earlier in December 1879. This inconsistency in the dates contradicts the hypothesis, leading to the label "contradiction."
+Label: contradiction

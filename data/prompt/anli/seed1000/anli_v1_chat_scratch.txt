@@ -1,0 +1,39 @@
+Premise: The Florida Scholastic Press Association (FSPA) is a not-for-profit organization founded in 1946. It is the scholastic press association for the state of Florida and its members consist of more than 300 student publications, online media teams and broadcast programs from the state. The main mission of the organization is to educate, train and support scholastic journalists and their advisers.
+Hypothesis: The FSPA has over 300 members
+Reason: The hypothesis can be logically inferred from the given premise. The premise explicitly states that the members of the Florida Scholastic Press Association (FSPA) consist of more than 300 student publications, online media teams and broadcast programs from the state. Therefore, it can be logically inferred that the FSPA has over 300 members. The hypothesis is not in conflict with the premise, and it is a reasonable conclusion to draw from the information provided.
+Answer: entailment
+###
+Premise: We Have Always Lived in the Castle is an upcoming American mystery thriller film directed by Stacie Passon and written by Passon and Mark Kruger, based on the 1962 novel of the same name by Shirley Jackson. The film stars Taissa Farmiga, Alexandra Daddario, Crispin Glover, and Sebastian Stan.
+Hypothesis: We Have Always Lived in the Castle came out in 2018.
+Reason: The hypothesis "We Have Always Lived in the Castle came out in 2018" contradicts the information presented in the premise that states the upcoming release of the film. Since the premise mentions that the film is directed by Stacie Passon, written by Passon and Mark Kruger, and stars Taissa Farmiga, Alexandra Daddario, Crispin Glover, and Sebastian Stan, it is reasonable to assume that the film has not been released yet. Therefore, the hypothesis that it came out in 2018 contradicts the premise and is false.
+Answer: contradiction
+###
+Premise: Bucklow Rural District was, from 1894 to 1974, a local government district in the north of the administrative county of Cheshire, England. Following the Local Government Act 1972, this rural district was split between the new Greater Manchester boroughs of Trafford and Manchester, and Macclesfield, which was retained in Cheshire.
+Hypothesis: Bucklow Rural District has a population.
+Reason: The hypothesis can logically be inferred from the premise. While the premise does not explicitly mention the population of Bucklow Rural District, it provides information about its existence and administrative changes that occurred over time. It is reasonable to assume that a local government district would have a population, therefore the hypothesis is logically entailed by the given premise.
+Answer: entailment
+###
+Premise: Jonathan Smith (born January 17, 1971), better known by his stage name Lil Jon, is an American rapper, record producer, and DJ. He was the frontman of the group Lil Jon & The East Side Boyz, which he formed in 1997, and they released several albums until 2004.
+Hypothesis: Jonathan Smith spent much of his time in China.
+Reason: There is no evidence in the premise to support or contradict the hypothesis that Jonathan Smith spent much of his time in China. The premise only provides information about his professional career in the United States as a rapper, record producer, and DJ, and his involvement in the group Lil Jon & The East Side Boyz. Therefore, the hypothesis cannot be confirmed or denied based on the given premise, resulting in a neutral label.
+Answer: neutral
+###
+Premise: Kinky is the self-titled album by Mexican group Kinky. It was released on March 26, 2002 on Nettwerk. The most popular song, Cornman, is part of the soundtrack for the PlayStation 3 video game LittleBigPlanet. Another of their songs, "Más", is featured in the PS2 video game SSX 3 and in the 2004 film Man on Fire.
+Hypothesis: "Más", is featured in the Play Station 2 video game.
+Reason: The hypothesis "Más" is featured in the Play Station 2 video game" can be logically inferred or deduced from the premise that "Another of their songs, 'Más', is featured in the PS2 video game SSX 3 and in the 2004 film Man on Fire." In other words, the hypothesis is true based on the information presented in the premise.
+Answer: entailment
+###
+Premise: The Great Mall of the Bay Area (often simply called The Great Mall) is a large indoor outlet shopping mall in Milpitas, California built by Ford Motor Land Development and Petrie Dierman Kughn in 1994. It was acquired by Mills Corporation in 2003, and by the Simon Property Group in April 2007. The mall contains approximately 1.4 million square feet of gross leaseable area.
+Hypothesis: Petrie Dierman Kughn died in 2006
+Reason: The given premise describes the history and ownership of The Great Mall of the Bay Area, but it does not provide any information related to the death of Petrie Dierman Kughn. Therefore, the hypothesis cannot be verified or refuted based on the provided premise, resulting in a neutral label.
+Answer: neutral
+###
+Premise: Sick Individuals is a Dutch electronic dance music act consisting of Rinze "Ray" Hofstee and Joep "Jim" Smeele. The two met in Hilversum, Netherlands (2008) while studying Music Composition. Jim and Ray had been composing for television commercials until their mutual fascination for both classical and modern music inspired their business partnership in 2010, when Sick Individuals was born.
+Hypothesis: Rinze "Ray" Hofstee wasn't interested in classical music but was fascinated by modern music.
+Reason: the hypothesis contradicts the information presented in the premise. The premise explicitly states that Rinze "Ray" Hofstee and Joep "Jim" Smeele had a mutual fascination for both classical and modern music, which led to the formation of their business partnership and the birth of Sick Individuals. Therefore, the hypothesis that Ray was not interested in classical music but fascinated by modern music contradicts the information presented in the premise, leading to the label "contradiction."
+Answer: contradiction
+###
+Premise: The Deserve the Future Tour was a worldwide concert tour by American rock supergroup Them Crooked Vultures. The tour began on August 9, 2009, and ran until July 30, 2010, after a run of shows in Japan, and visited North America, Europe and Oceania. The tour was in support of the band's debut album.
+Hypothesis: The Deserve the Future Tour ran for 4 years.
+Reason: The hypothesis contradicts the information presented in the premise. The premise states that the tour began on August 9, 2009, and ended on July 30, 2010, making the tour last for less than a year. The hypothesis claims that the tour ran for four years, which is not supported by the information in the premise. Therefore, there is a contradiction between the two statements, and the label "contradiction" is assigned.
+Answer: contradiction

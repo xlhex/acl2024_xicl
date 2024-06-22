@@ -1,0 +1,29 @@
+Question 1: How can I be like Sheldon Cooper?
+Question 2: How do I become like Sheldon Cooper?
+Question: Do both questions ask the same thing?
+Label: yes
+###
+Question 1: Why can't some people think for themselves?
+Question 2: Why don't people think for themselves?
+Question: Do both questions ask the same thing?
+Label: no
+###
+Question 1: What do people think about Anonymous?
+Question 2: What do you think about the 'Anonymous' option on Quora?
+Question: Do both questions ask the same thing?
+Label: yes
+###
+Question 1: Why don't we use Solar Furnace to produce electricity?
+Question 2: Why don't we make Solar Cars?
+Question: Do both questions ask the same thing?
+Label: no
+###
+Question 1: What's the meaning of life?
+Question 2: "What is the meaning of ""Life""?"
+Question: Do both questions ask the same thing?
+Label: yes
+###
+Question 1: What is an intuitive explanation of the fractional quantum Hall effect?
+Question 2: What is an intuitive explanation of the Quantum Hall effect?
+Question: Do both questions ask the same thing?
+Label: no

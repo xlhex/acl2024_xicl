@@ -1,0 +1,39 @@
+Premise: A group of people walking down a road a long road, in the suburbs.
+Hypothesis: There is a group of people.
+Reason: people are considered to be in a group.
+Label: entailment
+###
+Premise: A child looks over her mother's shoulder.
+Hypothesis: A child is climbing a tree.
+Reason: The child that looks over her mother's shoulder cannot be climbing trees.
+Label: contradiction
+###
+Premise: People walking on a sidewalk past a parked train.
+Hypothesis: Some people and a passenger train.
+Reason: Not all trains are passenger trains.
+Label: neutral
+###
+Premise: Two basketball players in blue and yellow uniforms with their arms held above their heads are eagerly exerting themselves to be very close to a struggling guy in white uniform with red trim who is tightly holding a basketball.
+Hypothesis: A group of men are playing basketball.
+Reason: A group of men is a restatement of two basketball players and another guy.
+Label: entailment
+###
+Premise: Woman wearing a long red garment and hat, holding a baby with a little girl next to her in front of a hut.
+Hypothesis: The native woman and her daughters are preparing to go inside to prepare the evening meal.
+Reason: Just because the woman is in front of a hut does not mean she is a native woman. There is also no evidence the baby the woman is holding is her daughter. It could be her niece. And just because they are in front of the hut does not mean they are about to go inside to prepare the evening meal. It might be early morning.
+Label: neutral
+###
+Premise: A man at a skate park is doing an ollie out of a bowl near a beach.
+Hypothesis: A man in a skate park is messing up an ollie in a half-pipe near the beach.
+Reason: Either the man is correctly performing an ollie or he is messing up an ollie. He cannot be in a bowl and a half-pipe at the same time.
+Label: contradiction
+###
+Premise: A woman is dancing on stage in front of a screen.
+Hypothesis: A woman performing a dance.
+Reason: woman is dancing on stage simply means woman performing a dance
+Label: entailment
+###
+Premise: Two men are cooking food on a grill.
+Hypothesis: Bob and bill were cooking.
+Reason: All men are not named Bob and bill.
+Label: neutral

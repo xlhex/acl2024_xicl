@@ -1,0 +1,258 @@
+{"premise":"Not all people have had the opportunities you have had.","hypothesis":"Some people have not had the opportunities you have had.","label":"entailment"}
+{"premise":"Not all people have had the opportunities you have had.","hypothesis":"Some people have had the opportunities you have had.","label":"entailment"}
+{"premise":"Not all people have had the opportunities you have had.","hypothesis":"Every person has had the opportunities you have had.","label":"contradiction"}
+{"premise":"Not all people have had the opportunities you have had.","hypothesis":"Not every person has had the opportunities you have had.","label":"entailment"}
+{"premise":"Not all people have had the opportunities you have had.","hypothesis":"All people have not had the opportunities you have had.","label":"contradiction"}
+{"premise":"Not all people have had the opportunities you have had.","hypothesis":"All people have had the opportunities you have had.","label":"contradiction"}
+{"premise":"Not all people have had the opportunities you have had.","hypothesis":"Not all people have had the opportunities you have not had.","label":"neutral"}
+{"premise":"Not all people have had the opportunities you have had.","hypothesis":"No one has had the opportunities you have had.","label":"contradiction"}
+{"premise":"I saw nothing at all.","hypothesis":"I didn't see anything at all.","label":"entailment"}
+{"premise":"I saw nothing at all.","hypothesis":"I saw something.","label":"contradiction"}
+{"premise":"I saw nothing at all.","hypothesis":"I did not see something.","label":"entailment"}
+{"premise":"Not often do we see her lose her cool like that.","hypothesis":"We do not see her lose her cool like that often.","label":"entailment"}
+{"premise":"Not often do we see her lose her cool like that.","hypothesis":"She does not lose her cool like that often.","label":"neutral"}
+{"premise":"Not often do we see her lose her cool like that.","hypothesis":"We see her lose her cool like that often.","label":"contradiction"}
+{"premise":"Not often do we see her lose her cool like that.","hypothesis":"Sometimes we see her lose her cool like that.","label":"entailment"}
+{"premise":"Not often do we see her lose her cool like that.","hypothesis":"Sometimes we do not see her lose her cool like that.","label":"contradiction"}
+{"premise":"Not often do we see her lose her cool like that.","hypothesis":"We do not see her often.","label":"neutral"}
+{"premise":"Not often do we see her lose her cool like that.","hypothesis":"We do not see her lose her cool like him often.","label":"neutral"}
+{"premise":"Not one person supported the proposal.","hypothesis":"Some people supported the proposal.","label":"contradiction"}
+{"premise":"Not one person supported the proposal.","hypothesis":"Some people did not support the proposal.","label":"entailment"}
+{"premise":"Not one person supported the proposal.","hypothesis":"Everyone supported the proposal.","label":"contradiction"}
+{"premise":"Not one person supported the proposal.","hypothesis":"Everyone did not support the proposal.","label":"entailment"}
+{"premise":"Not one person supported the proposal.","hypothesis":"No one supported the proposal.","label":"entailment"}
+{"premise":"Not one person supported the proposal.","hypothesis":"No one did not support the proposal.","label":"contradiction"}
+{"premise":"Not one person supported the proposal.","hypothesis":"One person did not support the proposal.","label":"entailment"}
+{"premise":"Not one person supported the proposal.","hypothesis":"One person supported the proposal.","label":"contradiction"}
+{"premise":"Not one person supported the proposal.","hypothesis":"Two people did not support the proposal.","label":"entailment"}
+{"premise":"Not one person supported the proposal.","hypothesis":"Two people supported the proposal.","label":"contradiction"}
+{"premise":"Not one person supported the proposal.","hypothesis":"Twenty people did not support the proposal.","label":"neutral"}
+{"premise":"Not one person supported the proposal.","hypothesis":"Twenty people supported the proposal.","label":"contradiction"}
+{"premise":"They had found not one mistake.","hypothesis":"They had found more than one mistake.","label":"entailment"}
+{"premise":"They had found not one mistake.","hypothesis":"They had not found more than one mistake.","label":"contradiction"}
+{"premise":"They had found not one mistake.","hypothesis":"They had found less than one mistake.","label":"contradiction"}
+{"premise":"They had found not one mistake.","hypothesis":"They had found two mistakes.","label":"neutral"}
+{"premise":"They had found not one mistake.","hypothesis":"They had not found two mistakes.","label":"contradiction"}
+{"premise":"They had found not one mistake.","hypothesis":"They had found twenty mistakes.","label":"neutral"}
+{"premise":"They had found not one mistake.","hypothesis":"They had not found twenty mistakes.","label":"neutral"}
+{"premise":"They had found not one mistake.","hypothesis":"They had found some mistakes.","label":"entailment"}
+{"premise":"They had found not one mistake.","hypothesis":"They had found not all mistakes.","label":"neutral"}
+{"premise":"They had found not one mistake.","hypothesis":"They had found all mistakes.","label":"neutral"}
+{"premise":"They had found not one mistake.","hypothesis":"They had not found even one mistake.","label":"contradiction"}
+{"premise":"They had found not one mistake.","hypothesis":"They had found not every mistake.","label":"neutral"}
+{"premise":"They had found not one mistake.","hypothesis":"They had found every mistake.","label":"neutral"}
+{"premise":"They had found not one mistake.","hypothesis":"They had not found only one mistake.","label":"entailment"}
+{"premise":"They had found not one mistake.","hypothesis":"They had not found any mistakes.","label":"contradiction"}
+{"premise":"They had found not one mistake.","hypothesis":"They had not found some mistakes.","label":"neutral"}
+{"premise":"Not one, not two, but three of them made the mistake.","hypothesis":"Three of them made the mistake.","label":"entailment"}
+{"premise":"Not one, not two, but three of them made the mistake.","hypothesis":"Three of them did not make the mistake.","label":"contradiction"}
+{"premise":"Not one, not two, but three of them made the mistake.","hypothesis":"More than three of them made the mistake.","label":"contradiction"}
+{"premise":"Not one, not two, but three of them made the mistake.","hypothesis":"More than two of them made the mistake.","label":"entailment"}
+{"premise":"Not one, not two, but three of them made the mistake.","hypothesis":"More than one of them made the mistake.","label":"entailment"}
+{"premise":"Not one, not two, but three of them made the mistake.","hypothesis":"More than three of them did not make the mistake.","label":"neutral"}
+{"premise":"Not one, not two, but three of them made the mistake.","hypothesis":"More than two of them did not make the mistake.","label":"neutral"}
+{"premise":"Not one, not two, but three of them made the mistake.","hypothesis":"More than one of them did not make the mistake.","label":"neutral"}
+{"premise":"Not one, not two, but three of them made the mistake.","hypothesis":"Less than three of them made the mistake.","label":"contradiction"}
+{"premise":"Not one, not two, but three of them made the mistake.","hypothesis":"Less than two of them made the mistake.","label":"contradiction"}
+{"premise":"Not one, not two, but three of them made the mistake.","hypothesis":"Less than four of them made the mistake.","label":"entailment"}
+{"premise":"Not one, not two, but three of them made the mistake.","hypothesis":"One of them made the mistake.","label":"entailment"}
+{"premise":"Not one, not two, but three of them made the mistake.","hypothesis":"Two of them made the mistake.","label":"entailment"}
+{"premise":"Not one, not two, but three of them made the mistake.","hypothesis":"One of them did not make the mistake.","label":"contradiction"}
+{"premise":"Not one, not two, but three of them made the mistake.","hypothesis":"Two of them did not make the mistake.","label":"contradiction"}
+{"premise":"Not two years ago this company was ranked in the top ten.","hypothesis":"Less than two years ago this company was ranked in the top ten.","label":"entailment"}
+{"premise":"Not two years ago this company was ranked in the top ten.","hypothesis":"More than two years ago this company was ranked in the top ten.","label":"neutral"}
+{"premise":"Not two years ago this company was ranked in the top ten.","hypothesis":"Less than two years ago this company was not ranked in the top ten.","label":"contradiction"}
+{"premise":"Not two years ago this company was ranked in the top ten.","hypothesis":"More than two years ago this company was not ranked in the top ten.","label":"neutral"}
+{"premise":"Not two years ago this company was ranked in the top ten.","hypothesis":"Two years ago this company was not ranked in the top ten.","label":"contradiction"}
+{"premise":"Not two years ago this company was ranked in the top ten.","hypothesis":"Two years ago this company was ranked in the top ten.","label":"entailment"}
+{"premise":"Not two years ago this company was ranked in the top ten.","hypothesis":"Twenty years ago this company was not ranked in the top ten.","label":"neutral"}
+{"premise":"Not two years ago this company was ranked in the top ten.","hypothesis":"Twenty years ago this company was ranked in the top ten.","label":"neutral"}
+{"premise":"Not two years ago this company was ranked in the top ten.","hypothesis":"One year ago this company was ranked in the top ten.","label":"contradiction"}
+{"premise":"Not two years ago this company was ranked in the top ten.","hypothesis":"One year ago this company was not ranked in the top ten.","label":"entailment"}
+{"premise":"He was here not ten minutes ago.","hypothesis":"He was here less than ten minutes ago.","label":"entailment"}
+{"premise":"He was here not ten minutes ago.","hypothesis":"He was not here less than ten minutes ago.","label":"contradiction"}
+{"premise":"He was here not ten minutes ago.","hypothesis":"He was here more than ten minutes ago.","label":"neutral"}
+{"premise":"He was here not ten minutes ago.","hypothesis":"He was not here more than ten minutes ago.","label":"neutral"}
+{"premise":"He was here not ten minutes ago.","hypothesis":"He was not here ten minutes ago.","label":"contradiction"}
+{"premise":"He was here not ten minutes ago.","hypothesis":"He was here ten minutes ago.","label":"entailment"}
+{"premise":"He was here not ten minutes ago.","hypothesis":"He was here one minute ago.","label":"contradiction"}
+{"premise":"He was here not ten minutes ago.","hypothesis":"He was not here one minute ago","label":"entailment"}
+{"premise":"He was here not ten minutes ago.","hypothesis":"He was here twenty minutes ago.","label":"neutral"}
+{"premise":"He was here not ten minutes ago.","hypothesis":"He was not here twenty minutes ago","label":"neutral"}
+{"premise":"His speech had caused not a little confusion.","hypothesis":"His speech had not caused a little confusion.","label":"entailment"}
+{"premise":"His speech had caused not a little confusion.","hypothesis":"His speech had caused a little confusion.","label":"contradiction"}
+{"premise":"His speech had caused not a little confusion.","hypothesis":"His speech had not caused confusion.","label":"contradiction"}
+{"premise":"His speech had caused not a little confusion.","hypothesis":"His speech had caused confusion.","label":"entailment"}
+{"premise":"His speech had caused not a little confusion.","hypothesis":"His speech had caused a not little confusion.","label":"entailment"}
+{"premise":"His speech had caused not a little confusion.","hypothesis":"His speech had caused much confusion.","label":"entailment"}
+{"premise":"His speech had caused not a little confusion.","hypothesis":"His speech had not caused much confusion.","label":"contradiction"}
+{"premise":"A mistake would be costly and not a little embarrassing.","hypothesis":"A mistake would not be costly and a little embarassing","label":"contradiction"}
+{"premise":"A mistake would be costly and not a little embarrassing.","hypothesis":"A mistake would be costly and very embarassing","label":"entailment"}
+{"premise":"A mistake would be costly and not a little embarrassing.","hypothesis":"A mistake would not be costly and very embarassing","label":"contradiction"}
+{"premise":"A mistake would be costly and not a little embarrassing.","hypothesis":"A mistake would not be costly and not a little embarassing","label":"contradiction"}
+{"premise":"Not even Ed approved of the plan","hypothesis":"Even Ed did not approve of the plan.","label":"entailment"}
+{"premise":"Not even Ed approved of the plan","hypothesis":"Even Ed approved of the plan.","label":"contradiction"}
+{"premise":"Not even Ed approved of the plan","hypothesis":"Not only Ed approved of the plan.","label":"contradiction"}
+{"premise":"Not even Ed approved of the plan","hypothesis":"Only Ed approved of the plan.","label":"contradiction"}
+{"premise":"Not even Ed approved of the plan","hypothesis":"Only Ed did not approve of the plan.","label":"contradiction"}
+{"premise":"Not even Ed approved of the plan","hypothesis":"Not even Ed or Sally approve of the plan.","label":"neutral"}
+{"premise":"Not only Ed approved of the plan.","hypothesis":"Ed was not the only one who approved of the plan.","label":"entailment"}
+{"premise":"Not only Ed approved of the plan.","hypothesis":"Not even Ed approved of the plan.","label":"contradiction"}
+{"premise":"Not only Ed approved of the plan.","hypothesis":"Ed approved of the plan.","label":"entailment"}
+{"premise":"Not only Ed approved of the plan.","hypothesis":"Ed not only approved of the plan.","label":"neutral"}
+{"premise":"Not only Ed approved of the plan.","hypothesis":"Only Ed approved of the plan.","label":"contradiction"}
+{"premise":"Not only Ed approved of the plan.","hypothesis":"Ed and some others approved of the plan.","label":"entailment"}
+{"premise":"Not even then did he lose patience.","hypothesis":"Even then, he did not lose patience.","label":"entailment"}
+{"premise":"Not even then did he lose patience.","hypothesis":"He did not lose patience even then.","label":"entailment"}
+{"premise":"Not even then did he lose patience.","hypothesis":"Not only then did he lose patience.","label":"contradiction"}
+{"premise":"Not even then did he lose patience.","hypothesis":"Only then did he lose patience.","label":"contradiction"}
+{"premise":"Not only was the acting appalling, the movie was far too long.","hypothesis":"The movie was far too long and the acting was appalling.","label":"entailment"}
+{"premise":"Not only was the acting appalling, the movie was far too long.","hypothesis":"The movie was not only far too long but the acting was also appalling.","label":"entailment"}
+{"premise":"Not only was the acting appalling, the movie was far too long.","hypothesis":"The movie was far too long but the acting was not appalling.","label":"contradiction"}
+{"premise":"Not only was the acting appalling, the movie was far too long.","hypothesis":"The movie was not far too long but the acting was appalling.","label":"contradiction"}
+{"premise":"Not only was the acting appalling, the movie was far too long.","hypothesis":"The movie was not far too long and the acting was not appalling.","label":"contradiction"}
+{"premise":"Not only was the acting appalling, the movie was far too long.","hypothesis":"The movie was too long and not even the acting was not appalling.","label":"entailment"}
+{"premise":"Not only was the acting appalling, the movie was far too long.","hypothesis":"The movie was not too long and not even the acting was appalling.","label":"contradiction"}
+{"premise":"We had a not very amicable discussion.","hypothesis":"We did not have a very amicable discussion.","label":"entailment"}
+{"premise":"We had a not very amicable discussion.","hypothesis":"We did not have a discussion.","label":"contradiction"}
+{"premise":"We had a not very amicable discussion.","hypothesis":"We had a very amicable discussion.","label":"contradiction"}
+{"premise":"We had a not very amicable discussion.","hypothesis":"We had a very not amicable discussion.","label":"neutral"}
+{"premise":"It somehow sounded not quite right.","hypothesis":"It somehow did not sound quite right.","label":"entailment"}
+{"premise":"It somehow sounded not quite right.","hypothesis":"It somehow did not sound right.","label":"entailment"}
+{"premise":"It somehow sounded not quite right.","hypothesis":"It somehow sounded quite not right.","label":"neutral"}
+{"premise":"It somehow sounded not quite right.","hypothesis":"It somehow sounded quite right.","label":"contradiction"}
+{"premise":"It was so not funny.","hypothesis":"It was not so funny.","label":"entailment"}
+{"premise":"It was so not funny.","hypothesis":"It was not funny.","label":"entailment"}
+{"premise":"It was so not funny.","hypothesis":"It was so boring.","label":"neutral"}
+{"premise":"I found his story not wholly convincing.","hypothesis":"I did not find his story wholly convincing.","label":"entailment"}
+{"premise":"I found his story not wholly convincing.","hypothesis":"I found his story wholly not convincing.","label":"contradiction"}
+{"premise":"I found his story not wholly convincing.","hypothesis":"I found his story wholly convincing.","label":"contradiction"}
+{"premise":"I found his story not wholly convincing.","hypothesis":"I did not find his story wholly not convincing.","label":"entailment"}
+{"premise":"He spoke not very confidently.","hypothesis":"He did not speak very confidently.","label":"entailment"}
+{"premise":"He spoke not very confidently.","hypothesis":"He spoke very not confidently.","label":"contradiction"}
+{"premise":"He spoke not very confidently.","hypothesis":"He spoke very confidently.","label":"contradiction"}
+{"premise":"He spoke not very confidently.","hypothesis":"He did not speak not very confidently.","label":"contradiction"}
+{"premise":"He spoke not very confidently.","hypothesis":"He did not speak very not confidently.","label":"entailment"}
+{"premise":"Not many of them had been damaged.","hypothesis":"Many of them had not been damaged.","label":"entailment"}
+{"premise":"Not many of them had been damaged.","hypothesis":"Many of them had been damaged.","label":"contradiction"}
+{"premise":"Not many of them had been damaged.","hypothesis":"Some of them had been damaged.","label":"entailment"}
+{"premise":"Not many of them had been damaged.","hypothesis":"Some of them had not been damaged.","label":"contradiction"}
+{"premise":"It was a not undistinguished private university with a large endowment.","hypothesis":"It was not an undistinguished private university with a large endowment.","label":"entailment"}
+{"premise":"It was a not undistinguished private university with a large endowment.","hypothesis":"It was not a distinguished private university with a large endowment.","label":"neutral"}
+{"premise":"It was a not undistinguished private university with a large endowment.","hypothesis":"It was a distinguished private university with a large endowment.","label":"neutral"}
+{"premise":"It was a not undistinguished private university with a large endowment.","hypothesis":"It was an undistinguished private university with a large endowment.","label":"contradiction"}
+{"premise":"She had a not inconsiderable income.","hypothesis":"She did not have a considerable income.","label":"neutral"}
+{"premise":"She had a not inconsiderable income.","hypothesis":"She had a considerable income.","label":"neutral"}
+{"premise":"She had a not inconsiderable income.","hypothesis":"She had a not considerable income.","label":"neutral"}
+{"premise":"She had a not inconsiderable income.","hypothesis":"She did not have an inconsiderable income.","label":"entailment"}
+{"premise":"She had a not inconsiderable income.","hypothesis":"She had an inconsiderable income.","label":"contradiction"}
+{"premise":"They had fixed the walls, and purchased some not inelegant furniture.","hypothesis":"They had fixed the walls, and did not purchase any inelegant furniture.","label":"entailment"}
+{"premise":"They had fixed the walls, and purchased some not inelegant furniture.","hypothesis":"They had fixed the walls, but did not purchase any elegant furniture.","label":"neutral"}
+{"premise":"They had fixed the walls, and purchased some not inelegant furniture.","hypothesis":"They had fixed the walls, but purchased some not elegant furniture.","label":"neutral"}
+{"premise":"They had fixed the walls, and purchased some not inelegant furniture.","hypothesis":"They had fixed the walls, and purchased some inelegant furniture.","label":"contradiction"}
+{"premise":"They had fixed the walls, and purchased some not inelegant furniture.","hypothesis":"They had fixed the walls, and purchased some elegant furniture.","label":"neutral"}
+{"premise":"That model is not available.","hypothesis":"That model is unavailable.","label":"entailment"}
+{"premise":"Such mistakes are not common.","hypothesis":"Such mistakes are uncommon.","label":"neutral"}
+{"premise":"Not unexpectedly, Charles was late for the meeting.","hypothesis":"Unexpectedly, Charles was not late for the meeting.","label":"contradiction"}
+{"premise":"Not unexpectedly, Charles was late for the meeting.","hypothesis":"Unexpectedly, Charles was late for the meeting.","label":"contradiction"}
+{"premise":"Not unexpectedly, Charles was late for the meeting.","hypothesis":"Expectedly, Charles was late for the meeting.","label":"entailment"}
+{"premise":"Not unexpectedly, Charles was late for the meeting.","hypothesis":"Expectedly, Charles was not late for the meeting.","label":"contradiction"}
+{"premise":"Not unreasonably, he asked for payment in advance.","hypothesis":"Unreasonably, he did not ask for payment in advance.","label":"contradiction"}
+{"premise":"Not unreasonably, he asked for payment in advance.","hypothesis":"Unreasonably, he asked for payment in advance.","label":"contradiction"}
+{"premise":"Not unreasonably, he asked for payment in advance.","hypothesis":"Reasonably, he asked for payment in advance.","label":"entailment"}
+{"premise":"Not unreasonably, he asked for payment in advance.","hypothesis":"Reasonably, he did not ask for payment in advance.","label":"contradiction"}
+{"premise":"Not surprisingly, they didn't want any part of it.","hypothesis":"Surprisingly, they didn't want any part of it.","label":"contradiction"}
+{"premise":"Not surprisingly, they didn't want any part of it.","hypothesis":"Surprisingly, they wanted some part of it.","label":"contradiction"}
+{"premise":"Not surprisingly, they didn't want any part of it.","hypothesis":"Not unsurprisingly, they didn't want any part of it.","label":"contradiction"}
+{"premise":"Not surprisingly, they didn't want any part of it.","hypothesis":"Not surprisingly, they wanted some part of it.","label":"contradiction"}
+{"premise":"Not at any stage of the proceedings did she contemplate giving up.","hypothesis":"She did not contemplate giving up at any stage of the proceedings.","label":"entailment"}
+{"premise":"Not at any stage of the proceedings did she contemplate giving up.","hypothesis":"She did not contemplate giving up.","label":"entailment"}
+{"premise":"Not at any stage of the proceedings did she contemplate giving up.","hypothesis":"She contemplated giving up at some stages of the proceedings.","label":"contradiction"}
+{"premise":"Not at any stage of the proceedings did she contemplate giving up.","hypothesis":"At no stage of the proceedings did she contemplate giving up.","label":"entailment"}
+{"premise":"Not at any stage of the proceedings did she contemplate giving up.","hypothesis":"She did not contemplate giving up at some stages of the proceedings.","label":"entailment"}
+{"premise":"Not for the first time, she felt utterly betrayed.","hypothesis":"She did not feel utterly betrayed for the first time.","label":"entailment"}
+{"premise":"Not for the first time, she felt utterly betrayed.","hypothesis":"She did not feel utterly betrayed for the second time.","label":"neutral"}
+{"premise":"Not for the first time, she felt utterly betrayed.","hypothesis":"She did not feel utterly betrayed for the twentieth time.","label":"neutral"}
+{"premise":"Not for the first time, she felt utterly betrayed.","hypothesis":"She had not felt utterly betrayed before.","label":"contradiction"}
+{"premise":"Not for the first time, she felt utterly betrayed.","hypothesis":"She had felt utterly betrayed before.","label":"entailment"}
+{"premise":"Not for the first time, she felt utterly betrayed.","hypothesis":"She did not feel utterly betrayed.","label":"contradiction"}
+{"premise":"Not for the first time, she felt utterly betrayed.","hypothesis":"She felt utterly betrayed for the first time.","label":"contradiction"}
+{"premise":"Not for the first time, she felt utterly betrayed.","hypothesis":"She felt utterly betrayed for the second time.","label":"neutral"}
+{"premise":"Not for the first time, she felt utterly betrayed.","hypothesis":"She felt utterly betrayed for the twentieth time.","label":"neutral"}
+{"premise":"Not for the first time, she felt utterly betrayed.","hypothesis":"It was not the first time that she felt utterly betrayed.","label":"entailment"}
+{"premise":"Not an accomplished dancer, he moved rather clumsily.","hypothesis":"Though not an accomplished dancer, he did not move clumsily.","label":"contradiction"}
+{"premise":"Not an accomplished dancer, he moved rather clumsily.","hypothesis":"Being an accomplished dancer, he did not move clumsily.","label":"contradiction"}
+{"premise":"Not an accomplished dancer, he moved rather clumsily.","hypothesis":"Though being an accomplished dancer, he moved rather clumsily.","label":"contradiction"}
+{"premise":"Not an accomplished dancer, he moved rather clumsily.","hypothesis":"He moved rather clumsily because he was not an accomplished dancer.","label":"entailment"}
+{"premise":"Not under any illusions about the matter, he continued to be cautious.","hypothesis":"Under some illusions about the matter, he did not continue to be cautious.","label":"contradiction"}
+{"premise":"Not under any illusions about the matter, he continued to be cautious.","hypothesis":"Under some illusions about the matter, he continued to be cautious.","label":"contradiction"}
+{"premise":"Not under any illusions about the matter, he continued to be cautious.","hypothesis":"Though not under any illusions about the matter, he did not continue to be cautious.","label":"contradiction"}
+{"premise":"Not under any illusions about the matter, he continued to be cautious.","hypothesis":"He continued to be cautious because he was not under any illusions about the matter.","label":"entailment"}
+{"premise":"Not under any illusions about the matter, he continued to be cautious.","hypothesis":"He continued to be cautious.","label":"entailment"}
+{"premise":"Not under any illusions about the matter, he continued to be cautious.","hypothesis":"He didn't continue to be cautious.","label":"contradiction"}
+{"premise":"We need someone not afraid of taking risks.","hypothesis":"We do not need someone afraid of taking risks.","label":"entailment"}
+{"premise":"We need someone not afraid of taking risks.","hypothesis":"We do not need someone not afraid of taking risks.","label":"contradiction"}
+{"premise":"We need someone not afraid of taking risks.","hypothesis":"We need someone afraid of taking risks.","label":"contradiction"}
+{"premise":"There are spare blankets in here, not that you'll have any need of them.","hypothesis":"There are no spare blankets in here, not that you'll have any need of them.","label":"contradiction"}
+{"premise":"There are spare blankets in here, not that you'll have any need of them.","hypothesis":"There are no spare blankets in here, you'll need them.","label":"contradiction"}
+{"premise":"There are spare blankets in here, not that you'll have any need of them.","hypothesis":"There are spare blankets in here, you will not have any need of them.","label":"entailment"}
+{"premise":"There are spare blankets in here, not that you'll have any need of them.","hypothesis":"There are spare blankets in here, you'll need them.","label":"contradiction"}
+{"premise":"They are now leaving not on Friday, but on Saturday.","hypothesis":"They are now leaving on Friday, not on Saturday.","label":"contradiction"}
+{"premise":"They are now leaving not on Friday, but on Saturday.","hypothesis":"They are now leaving on Saturday instead of Friday.","label":"entailment"}
+{"premise":"They are now leaving not on Friday, but on Saturday.","hypothesis":"They are now leaving not on Saturday, but on Friday.","label":"contradiction"}
+{"premise":"They are now leaving not on Friday, but on Saturday.","hypothesis":"They are now leaving on Saturday.","label":"entailment"}
+{"premise":"They are now leaving not on Friday, but on Saturday.","hypothesis":"They are now not leaving on Saturday.","label":"contradiction"}
+{"premise":"They are now leaving not on Friday, but on Saturday.","hypothesis":"They are now leaving on Friday.","label":"contradiction"}
+{"premise":"They are now leaving on Saturday, not on Friday.","hypothesis":"They are now leaving not on Saturday, but on Friday.","label":"contradiction"}
+{"premise":"They are now leaving on Saturday, not on Friday.","hypothesis":"They are now leaving on Saturday instead of Friday.","label":"entailment"}
+{"premise":"They are now leaving on Saturday, not on Friday.","hypothesis":"They are now leaving not on Friday, but on Saturday.","label":"entailment"}
+{"premise":"They are now leaving on Saturday, not on Friday.","hypothesis":"They are now leaving on Saturday.","label":"entailment"}
+{"premise":"They are now leaving on Saturday, not on Friday.","hypothesis":"They are now not leaving on Saturday.","label":"contradiction"}
+{"premise":"They are now leaving on Saturday, not on Friday.","hypothesis":"They are now not leaving on Friday.","label":"entailment"}
+{"premise":"They've invited you and your brother, but not me.","hypothesis":"They've invited you and your brother, and me.","label":"contradiction"}
+{"premise":"They've invited you and your brother, but not me.","hypothesis":"They've invited not you and your brother, but me.","label":"contradiction"}
+{"premise":"They've invited you and your brother, but not me.","hypothesis":"They've invited not you and your brother, nor me.","label":"contradiction"}
+{"premise":"They've invited you and your brother, but not me.","hypothesis":"They've invited me.","label":"contradiction"}
+{"premise":"They've invited you and your brother, but not me.","hypothesis":"They've invited you.","label":"entailment"}
+{"premise":"They've invited you and your brother, but not me.","hypothesis":"They've invited your brother.","label":"entailment"}
+{"premise":"They've invited you and your brother, but not me.","hypothesis":"They have not invited me.","label":"entailment"}
+{"premise":"They've invited you and your brother, but not me.","hypothesis":"They have not invited your brother.","label":"contradiction"}
+{"premise":"They've invited you and your brother, but not me.","hypothesis":"They have not invited you.","label":"contradiction"}
+{"premise":"They've invited you and your brother, but not me.","hypothesis":"They've invited you and me, but not your brother.","label":"contradiction"}
+{"premise":"The night turned cold under a sky with stars that shone, not twinkled, in the diamond-clear air.","hypothesis":"The night turned cold under a sky with stars that twinkled, not shone, in the diamond-clear air.","label":"contradiction"}
+{"premise":"The night turned cold under a sky with stars that shone, not twinkled, in the diamond-clear air.","hypothesis":"The night turned cold under a sky with stars that did not twinkle, but shone, in the diamond-clear air.","label":"entailment"}
+{"premise":"The night turned cold under a sky with stars that shone, not twinkled, in the diamond-clear air.","hypothesis":"The night turned cold under a sky with stars that did not shine, but twinkled, in the diamond-clear air.","label":"contradiction"}
+{"premise":"The night turned cold under a sky with stars that shone, not twinkled, in the diamond-clear air.","hypothesis":"The night turned cold under a sky with stars that shone and twinkled in the diamond-clear air.","label":"contradiction"}
+{"premise":"She rarely goes out these days.","hypothesis":"She doesn't go out often these days.","label":"entailment"}
+{"premise":"She rarely goes out these days.","hypothesis":"She never goes out these days.","label":"contradiction"}
+{"premise":"She rarely goes out these days.","hypothesis":"She doesn't go out these days.","label":"contradiction"}
+{"premise":"She rarely goes out these days.","hypothesis":"She goes out these days, but not often.","label":"entailment"}
+{"premise":"This phone hardly lags.","hypothesis":"This phone never lags.","label":"contradiction"}
+{"premise":"This phone hardly lags.","hypothesis":"This phone does not lag.","label":"contradiction"}
+{"premise":"This phone hardly lags.","hypothesis":"This phone does not lag often.","label":"entailment"}
+{"premise":"This phone hardly lags.","hypothesis":"This phone lags, but not often.","label":"entailment"}
+{"premise":"Little of the liquid spilled.","hypothesis":"Not much of the liquid spilled.","label":"entailment"}
+{"premise":"Little of the liquid spilled.","hypothesis":"None of the liquid spilled.","label":"contradiction"}
+{"premise":"Little of the liquid spilled.","hypothesis":"Lots of the liquid spilled.","label":"contradiction"}
+{"premise":"Little of the liquid spilled.","hypothesis":"The liquid spilled, but not much.","label":"entailment"}
+{"premise":"One seldom sees such birds.","hypothesis":"One doesn't often see such birds.","label":"entailment"}
+{"premise":"One seldom sees such birds.","hypothesis":"One doesn't see such birds.","label":"contradiction"}
+{"premise":"One seldom sees such birds.","hypothesis":"One sees such birds, but not often.","label":"entailment"}
+{"premise":"One seldom sees such birds.","hypothesis":"One never sees such birds.","label":"contradiction"}
+{"premise":"None of them supported her.","hypothesis":"Few of them supported her.","label":"contradiction"}
+{"premise":"None of them supported her.","hypothesis":"Not one of them supported her.","label":"entailment"}
+{"premise":"None of them supported her.","hypothesis":"One of them supported her.","label":"contradiction"}
+{"premise":"None of them supported her.","hypothesis":"One of them did not support her.","label":"entailment"}
+{"premise":"None of them supported her.","hypothesis":"Two of them supported her.","label":"contradiction"}
+{"premise":"None of them supported her.","hypothesis":"Two of them did not support her.","label":"entailment"}
+{"premise":"None of them supported her.","hypothesis":"Twenty of them supported her.","label":"contradiction"}
+{"premise":"None of them supported her.","hypothesis":"Twenty of them did not support her.","label":"entailment"}
+{"premise":"You can not answer their letters: you're not legally required to respond.","hypothesis":"You can answer their letters.","label":"neutral"}
+{"premise":"You can not answer their letters.","hypothesis":"You don't have to answer their letters.","label":"entailment"}
+{"premise":"They must not read it.","hypothesis":"It is required that they not read it.","label":"entailment"}
+{"premise":"They must not read it.","hypothesis":"They need not read it.","label":"neutral"}
+{"premise":"They must not read it.","hypothesis":"They should not read it.","label":"entailment"}
+{"premise":"We were friends at no time.","hypothesis":"We were friends in no time.","label":"contradiction"}
+{"premise":"We were friends at no time.","hypothesis":"We were not friends.","label":"entailment"}
+{"premise":"I can't stop reading this book.","hypothesis":"I am not reading this book.","label":"contradiction"}
+{"premise":"I can't stop reading this book.","hypothesis":"I am reading this book.","label":"entailment"}

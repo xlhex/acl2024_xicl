@@ -1,0 +1,35 @@
+Question 1: Is a third World War imminent?
+Question 2: How close is a World War III?
+Question: Do both questions ask the same thing?
+Reason: They have the same underlying meaning and are essentially asking about the likelihood or proximity of a third World War, albeit using slightly different phrasing.
+Label: yes
+###
+Question 1: Why is Lionel Messi so brilliant?
+Question 2: Is Lionel Messi a genius?
+Question: Do both questions ask the same thing?
+Reason: These questions have different focuses, as the first one seeks an explanation for his brilliance, whereas the second one seeks to determine if he is a genius, which may not necessarily be solely based on brilliance.
+Label: no
+###
+Question 1: What are some of the resources to learn about IoT?
+Question 2: What are the best resources to learn about the Internet of Things (IoT)?
+Question: Do both questions ask the same thing?
+Reason: While the wording and phrasing of the questions differ slightly, their core meaning and the information sought are identical, making them paraphrases of each other in the context of seeking resources for IoT learning.
+Label: yes
+###
+Question 1: What are some of the best CyanogenMod 12.1 themes?
+Question 2: How do I make my own cyanogen 12.1 themes?
+Question: Do both questions ask the same thing?
+Reason: Question 1 is asking for recommendations or a list of existing themes, while Question 2 is seeking information on how to create one's own CyanogenMod 12.1 themes. Therefore, the questions do not ask the same thing, as one is about finding pre-made themes, and the other is about creating custom themes.
+Label: no
+###
+Question 1: Which are some of the best movies of 2016?
+Question 2: What has been the best movie of 2016?
+Question: Do both questions ask the same thing?
+Reason: Both questions inquire about the best movies of 2016, albeit in slightly different phrasing ("Which are some of" vs. "What has been"), but their overall intent and the information sought are identical.
+Label: yes
+###
+Question 1: Study tips to pas ca ipcc?
+Question 2: If you are unhappy with your current job, would you quit right away& find another job or wait until you find a job. What are the pros & cons of each?
+Question: Do both questions ask the same thing?
+Reason: Question 1 is asking for study tips to pass a CA IPCC exam, whereas Question 2 is asking whether someone should quit their current job or wait to find another job and discuss the pros and cons of each option. These two questions have different topics and purposes, so they do not ask the same thing.
+Label: no
