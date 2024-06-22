@@ -1,6 +1,8 @@
 SEED=$1
 TASK=$2
+PROMPT=$3
 BASE_DIR=../output/prompt_mis_inst/seed${SEED}
+
 declare -A mapping
 declare -A task_mapping
 declare -A prompt_mapping
@@ -32,12 +34,12 @@ if [ ! -d $BASE_DIR ];then
     mkdir -p $BASE_DIR
 fi
 
-PROMPT=${prompt_mapping[$TASK]}
+PROMPT=${prompt_mapping[$PROMPT]}
 traindata="../data/prompt/full_labels/seed${SEED}/${PROMPT}"
-testdata=`echo ${mapping[$key]}`
-task=`echo ${task_mapping[$key]}`
+testdata=`echo ${mapping[$TASK]}`
+task=`echo ${task_mapping[$TASK]}`
 filename="$(basename ${testdata})"
 promptname="$(basename ${traindata})"
 output=${BASE_DIR}/${filename%.*}.${promptname%.*}.jsonl
 echo "python run.py --model_name mistral --train_file ${traindata} --test_file ${testdata} --task ${task} > ${output}"
-#python run.py --model_name mistral --train_file ${traindata} --test_file ${testdata} --task ${task} > ${output}
+python run.py --model_name mistral --train_file ${traindata} --test_file ${testdata} --task ${task} > ${output}

@@ -45,7 +45,6 @@ def main(model_name, train_file, test_file, task, seed):
     prompts, answers = read_data(prompt, test_file, data_loaders[task], test_examples=1000 if "anli_v1" not in train_file else 500, binary=False)
 
     for i, (prompt, answer) in enumerate(zip(prompts, answers)):
-        if i < st: continue
         inputs = tokenizer(prompt, return_tensors="pt")
         for key in inputs:
             inputs[key] = inputs[key].cuda()

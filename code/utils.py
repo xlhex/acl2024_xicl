@@ -6,6 +6,7 @@
 from __future__ import print_function
 
 from typing import Tuple, Optional, Any, List
+import argparse
 
 import torch
 from transformers import AutoTokenizer, AutoModelForCausalLM
@@ -54,13 +55,6 @@ def args():
         "--train_file",
         type=str,
         help="In-context demonstration examples",
-        required=True,
-    )
-
-    parser.add_argument(
-        "--test_file",
-        type=str,
-        help="test file for the evaluation",
         required=True,
     )
 

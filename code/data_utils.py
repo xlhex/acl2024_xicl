@@ -7,6 +7,7 @@ from __future__ import print_function
 
 import random
 import json
+import string
 
 meta_dict = {
      "SST-2": {0: "negative", 1: "positive"},
