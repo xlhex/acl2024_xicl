@@ -17,20 +17,6 @@ meta_dict = {
      "RTE": {0: "yes", 1: "no"},
      "MRPC": {"0": "No", "1": "Yes"},
      "HANS": {0: "entailment", 1: "not entailment"},
-     "NAN": {"entailment": "entailment", "contradiction": "not entailment", "neutral": "not entailment"},
-     "ISCS": {0: "entailment", 1: "not entailment", 2: "not entailment"},
-     "ESNLI": {0: "entailment", 1: "not entailment", 2: "not entailment"},
-     "ANLI": {"e": "entailment", "c": "not entailment", "n": "not entailment"},
-  }
-
-meta_dict = {
-     "SST-2": {0: "negative", 1: "positive"},
-     "QQP": {0: "no", 1: "yes"},
-     "MNLI": {0: "entailment", 1: "not entailment"},
-     "QNLI": {0: "yes", 1: "no"},
-     "RTE": {0: "yes", 1: "no"},
-     "MRPC": {"0": "No", "1": "Yes"},
-     "HANS": {0: "entailment", 1: "not entailment"},
      "NAN": {"entailment": "entailment", "contradiction": "contradiction", "neutral": "neutral"},
      "ISCS": {0: "entailment", 1: "neutral", 2: "contradiction"},
      "ESNLI": {0: "entailment", 1: "neutral", 2: "contradiction"},
